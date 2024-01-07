@@ -1,5 +1,5 @@
 
-Certainly! Below is a simple README template that you can use for your "quoty" project:
+
 
 Quoty - Random Quotes Webpage
 Quoty is a simple webpage that displays random quotes, allowing users to explore and be inspired by thoughtful words. The application uses the LibreTranslate API to provide translations of quotes into different languages.
