@@ -1,0 +1,41 @@
+
+Certainly! Below is a simple README template that you can use for your "quoty" project:
+
+Quoty - Random Quotes Webpage
+Quoty is a simple webpage that displays random quotes, allowing users to explore and be inspired by thoughtful words. The application uses the LibreTranslate API to provide translations of quotes into different languages.
+
+Features
+Random Quotes: Fetches random quotes from the Quotable API to display on the webpage.
+
+Language Translation: Utilizes the LibreTranslate API to translate quotes into different languages, enhancing user experience.
+
+Copy and Save: Allows users to copy the current quote to their clipboard and save the quote as an image.
+
+Technologies Used
+HTML: Structuring the webpage.
+
+CSS: Styling and layout of the webpage.
+
+JavaScript: Dynamic behavior, fetching quotes, translations, and user interactions.
+
+LibreTranslate API: For language translation services.
+
+Usage
+Open index.html in your web browser.
+
+Click the "New Quote" button to fetch and display a new random quote.
+
+Use the "Translate" button to switch between English and the translated language.
+
+Copy the current quote with the "Copy" button.
+
+Save the current quote as an image using the "Save" button.
+
+Setup
+No specific setup is required. Just open the index.html file in a web browser, and you're good to go!
+
+Contributing
+Feel free to contribute to the project by submitting issues or pull requests. Any feedback or improvements are welcome.
+
+License
+This project is licensed under the MIT License.
